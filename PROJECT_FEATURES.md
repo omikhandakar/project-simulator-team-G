@@ -10,3 +10,5 @@ The system now stores the email of every student.
 The system now stores the phone of every student.
 ## Student Address
 The system now stores the address of every student.
+## Student Gender
+The system now stores the gernder of every student.
