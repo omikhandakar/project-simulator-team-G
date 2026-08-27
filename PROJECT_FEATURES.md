@@ -21,3 +21,5 @@ The system now stores the status of every student.
 ## Fix: Student Name Length
 ## Fix: Student Address Capacity
 The system now fixed the address capacity of every student.
+## Fix: Increase Student phone number capcity
+The system now fixed the phone number capacity of every student.
