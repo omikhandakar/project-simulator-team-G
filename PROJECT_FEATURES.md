@@ -27,3 +27,12 @@ The system now fixed the phone number capacity of every student.
 The system now rename student if field.
 ## Refactor: Rename Student Name Field
 The system now rename student name field.
+## Improved Adress Capacity
+## Improved phone Capacity
+## Rename Student Id
+## Rename Student Name
+## Improved README
+## Project Structure
+## Team Information
+## Organized CHANGELOG
+ 
