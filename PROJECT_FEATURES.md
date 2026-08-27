@@ -25,3 +25,5 @@ The system now fixed the address capacity of every student.
 The system now fixed the phone number capacity of every student.
 ## Refactor: Rename Student Id Field
 The system now rename student if field.
+## Refactor: Rename Student Name Field
+The system now rename student name field.
