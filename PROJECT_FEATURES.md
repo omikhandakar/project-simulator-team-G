@@ -18,3 +18,4 @@ The system now stores the semester of every student.
 The system now stores the credit hours of every student.
 ## Student Status
 The system now stores the status of every student.
+## Fix: Student Name Length
